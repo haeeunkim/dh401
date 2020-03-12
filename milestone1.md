@@ -1,8 +1,8 @@
 # Research Question
-- What do you want to study?
-- What is the larger context of your project?
-- Why is it interesting (for you)?
-- What are possible outcomes?
+- What do you want to study? : difference in rhythmic flow btw American rap and french rap
+- What is the larger context of your project? :
+- Why is it interesting (for you)? : Hiphop/rap is not studied enough (yet), whereas it is an intereseting field of study and music. Furthermore, we can sense the difference while listening hiphop/rap from different languages/countries. -> that motivated us.
+- What are possible outcomes? -> we can numerically observe the difference btw american/french rap
 # Concepts and Data
 - What is the concrete focus of your project?
 - Which musically relevant concepts do you use or study?
