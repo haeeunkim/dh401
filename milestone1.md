@@ -26,11 +26,11 @@ As said previously, we will discuss the necessity to transform, change the featu
 - Do they already exist or do you need to create / transform them?
 
 # Methods
-- Which methods are you planning to use?
+- Which methods are you planning to use? -> read the reference articles to answer this
 - How are they related to the research question?
 # Literature
-- What is the state-of-the-art in relation to your question? Name at least 3 relevant publications.
+- What is the state-of-the-art in relation to your question? Name at least 3 relevant publications. -> https://emusicology.org/article/view/6986, 
 - Which issues are not yet addressed that your project supplements?
 # Two more things
-- For which part of your project do you need input and/or support from our side?
-- You could already have a look into datasets suitable for you project
+- For which part of your project do you need input and/or support from our side? -> support in how to analyze the encoded result. determining the relevant features, How to choose the french songs (since we need to encode some songs by our own)
+- You could already have a look into datasets suitable for you project 
