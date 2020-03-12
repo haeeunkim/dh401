@@ -11,6 +11,7 @@ repository for 2020 Digital Musicology project
 ## Important Dates
 
 #### Milestone 1 : Project Proposoals (Deadline: 16.03)
+##### Milestone 1.5 : Select the french rap dataset, encode them
 #### Milestone 2 : Data Gathering and Preprocessing(Deadline: 30.03)
 #### Milestone 3 : Explatory Analysis (Deadline: 20.04)
 #### Milestone 4 : Final Analysis (Deadline: 11.05)
