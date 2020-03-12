@@ -1,4 +1,4 @@
-# dh401 - (Project Name)
+# dh401 - Comparative analysis on rhythmic flow of rap music : American vs. French
 repository for 2020 Digital Musicology project
 
 ## Members:
