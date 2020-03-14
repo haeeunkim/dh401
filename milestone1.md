@@ -1,8 +1,9 @@
 # Research Question
-- What do you want to study? : difference in flow btw American rap and french rap
-- What is the larger context of your project? :Since we are interested in anlyzing the rythmic differences between U.S. and french rap, we need to determine the influence bewtween these two style of rap. For example, we will search when these styles started, how they evolved in each country and how they influenced each other over time.
-- Why is it interesting (for you)? : Hiphop/rap is not studied enough (yet), whereas it is an intereseting field of study and music. Furthermore, we can sense the difference while listening hiphop/rap from different languages/countries. -> that motivated us. Most of the studies about rap music focus on the social and cultural dimension, they mostly study only the lyrics and not the "musicality" of this style. 
-- What are possible outcomes? -> Since we will follow the same methodology as the MCFlow study, we think that we will also observe some interesting features as the evolution of the rhyme density and phrase variability. We hope that we will also find interesting differences between french and U.S. rap as differneces in the "norms" of these features.
+Rap is a unique form of vocal artistry which straddles the boundary between song and poetry. Recently being prevalent not only in authentic Hip-Hop music, but in Pop music as well, rap has undoubtably become an imperative part of contemporary music. Having deemphasized pitch structures in favor of rhythmic and poetic structure, the sonic texture of rap music is highly related to the linguistics, such as rhymes, pronunciations, and phrasing. 
+
+Several studies on rap music have already been done. In sociology and media studies, understanding rhetoric and code of rap music was one way to understand contemporary street culture, which is mainly done by semantically analyzing a small collection of rap lyrics. On the other hand, in computational musicology, some studies have come up with the computational definition of rhythmic rap flow as well as the way to encode them. However, not much work has been done on different rhythmic stress in rap music between languages, neither on small collection of dataset or large-scale dataset. 
+
+In our study, we aim to compare the rhythmic flow of rap music in different languages, in particular, English and French. By statistically analyzing sonic musicalities of different rap music, we aim to discover and compare the ‘norm’ of anglophone and francophone rap. Furthermore, by analyzing stressed syllables and words, we aim to relate the English and French linguistics to our corpus-based rhythmic analysis.
 
 # Concepts and Data
 - What is the concrete focus of your project? 
