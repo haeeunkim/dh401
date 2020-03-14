@@ -16,11 +16,17 @@ Since there is no publically available dataset for the francophone counterpart, 
 We might control or modify the features to be encoded or the selection of dataset throughout our study if necessary.
 
 # Methods
-- Which methods are you planning to use? -> read the reference articles to answer this
-- How are they related to the research question?
+Considering the relatively small size of the corpus, we will focus more on basic statistics of rap flow rather than taking any machine-learning based approach. This may include probability distribution of phrasal length/tempo/syncopation/stressed syllable, etc, which will summarize rhythmic characterisics of anglophone and francophone rap. 
+Then the result will be combined with lyrics to discover if rhythmic differences are related to semantics of lyrics or syntacticall difference between two languages. In this stage, we might use some of anglophone/francophone natural language processing libraries to manipulate the lyrics in a consistent and well-established way. 
+
 # Literature
-- What is the state-of-the-art in relation to your question? Name at least 3 relevant publications. -> https://emusicology.org/article/view/6986, 
-- Which issues are not yet addressed that your project supplements?
-# Two more things
-- For which part of your project do you need input and/or support from our side? -> support in how to analyze the encoded result. determining the relevant features, How to choose the french songs (since we need to encode some songs by our own)
-- You could already have a look into datasets suitable for you project 
+Our study is strongly related to the following publications:
+1. MCFlow: A Digital Corpus of Rap Transcriptions (Condit-Schultz, 2015): Provided the dataset and encoding scheme of rap flow. Histocial analysis on rhythmic features of anglophone rap music. 
+2. Anticipatory syncopation in a rock: a corpus study (Tan, Lustig, Temperly, 2018): Provided the methodology to define and measure a certain rhythmic feature 
+3. Second-Position Syncopation in European and American Vocal Music (Temperley, 2019): Corpus analysis on second-position syncopation in 19th-century English, Scottish, Euro-American, African-American, French, German, and Italian vocal music. 
+
+Those publications provides the key methodology and liguistic-musicology perspective for our study. Above all these, we will add a specific comparative analysis between only two languages in a certain genre of music and aim for a deeper understanding on sonic and semantical musicality of rap music.
+
+
+# Additional Remark
+Since we have to build our francophone corpus from scratch, we might need some support in how to choose the songs that is similar enough with its anglophone counterpart. We alsso suppose that we might need some support or guidance while analyzing the encoded result or determining the relevant features of music, in the latter part of our study. 
