@@ -30,3 +30,8 @@ Those publications provides the key methodology and liguistic-musicology perspec
 
 # Additional Remark
 Since we have to build our francophone corpus from scratch, we might need some support in how to choose the songs that is similar enough with its anglophone counterpart. We alsso suppose that we might need some support or guidance while analyzing the encoded result or determining the relevant features of music, in the latter part of our study. 
+
+# Reference
+- MCFlow: A Digital Corpus of Rap Transcriptions (Condit-Schultz, 2015)
+- Constructing racial rhetoric: Media depictions of harm in heavy metal and rap music (A Binder, 1993)
+- Gangstas, thugs, and hustlas: Identity and the code of the street in rap music (CU Kubrin, 2005)
