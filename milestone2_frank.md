@@ -66,7 +66,8 @@ METTRE IMAGE 1!!!
 
 
 For the French part, we will have a MusicXML file for each song. We will need to implement an XML parser to get the data. Here you can see the result of the encoding for one song: a part of the resulting partition and a part of the corresponding MusicXML file:
-METTRE IMAGE 2!!!
+
+![image](https://user-images.githubusercontent.com/42543702/77852917-799af480-71e1-11ea-881b-78e312370731.png)
 
 METTRE IMAGE 3!!!
 
