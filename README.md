@@ -1,4 +1,4 @@
-# dh401 - Comparative analysis on rhythmic flow of rap music : American vs. French
+# dh401 - Comparative analysis on rhythmic flow of rap subgenres
 repository for 2020 Digital Musicology project
 
 ## Members:
