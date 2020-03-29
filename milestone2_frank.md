@@ -64,7 +64,6 @@ This section is the main reason why this milestone is to be delivered in a Jupyt
 For the US part, the data are encoded in "kern format" and where each column correspond to as specific feature. For example, column number one correspond to the rhythmic position and duration of the syllables, the second is the metrical position of the stressed/unstressed syllables and so on… We have one file for each song and each verse is separated in the file. Here is an example of the file:
 METTRE IMAGE 1!!!
 
-![image](https://user-images.githubusercontent.com/42543702/77852866-30e33b80-71e1-11ea-9a90-712099174fff.png)
 
 For the French part, we will have a MusicXML file for each song. We will need to implement an XML parser to get the data. Here you can see the result of the encoding for one song: a part of the resulting partition and a part of the corresponding MusicXML file:
 METTRE IMAGE 2!!!
