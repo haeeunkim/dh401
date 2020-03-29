@@ -70,7 +70,8 @@ For the French part, we will have a MusicXML file for each song. We will need to
 
 ![image](https://user-images.githubusercontent.com/42543702/77852917-799af480-71e1-11ea-881b-78e312370731.png)
 
-METTRE IMAGE 3!!!
+
+![image](https://user-images.githubusercontent.com/42543702/77852998-d7c7d780-71e1-11ea-8789-d1c2987c6398.png)
 
 
 - How is the information that the dataset represents encoded in this format?
