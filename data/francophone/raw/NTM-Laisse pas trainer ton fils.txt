@@ -1,10 +1,10 @@
-=1	=1	=1	=1
-
-2	0	0	R
-
-4.	0	0	0
-16.	0	0	R
 *>Verse1	*>Verse1	*>Verse1	*>Verse1
+=1	=1	=1	=1
+2.	0	0	R
+
+8	0	0	R
+
+16.	0	0	R
 32	1	0	A
 =2	=2	=2	=2
 32	0	0	R
@@ -295,11 +295,11 @@
 1	0	0	R
 =28	=28	=28	=28
 1	0	0	R
+*>Verse2	*>Verse2	*>Verse2	*>Verse2
 =29	=29	=29	=29
 2	0	0	R
 4	0	0	R
 16	0	0	R
-*>Verse2	*>Verse2	*>Verse2	*>Verse2
 16	1	0	Pu-
 16	0	0	-tain
 16	0	0	c'est
@@ -604,11 +604,11 @@
 1	0	0	R
 =56	=56	=56	=56
 1	0	0	R
+*>Verse3	*>Verse3	*>Verse3	*>Verse3
 =57	=57	=57	=57
 2	0	0	R
 4	0	0	R
 16	0	0	R
-*>Verse3	*>Verse3	*>Verse3	*>Verse3
 16	1	0	Que
 16.	0	0	vou-
 32	0	0	-lais-
